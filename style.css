@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+}
+.create {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 150px;
+    
+}
+.invite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.pricing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.sub {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+@media screen (max-width: 500px;)
